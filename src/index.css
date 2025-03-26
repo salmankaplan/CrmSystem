@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dashboard th, .dashboard td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 600px) {
+  .dashboard table {
+    font-size: 12px;
+  }
+}
