@@ -1,4 +1,4 @@
-CrmSystemCase/CrmApi içerisinde backend projesi ile Frontend projesi birlikte bulunmaktadır.
+CrmSystemCase/CrmApi içerisinde backend projesi ile frontend projesi bir arada bulunmaktadır.
 
 
 # Getting Started with Create React App
